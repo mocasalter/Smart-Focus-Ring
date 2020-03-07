@@ -1,0 +1,19 @@
+{
+  "name": "smart-focus-ring",
+  "version": "1.0.0",
+  "description": "Hide the :focus ring by default, show it for keyboard users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mocasalter/Smart-Focus-Ring"
+  },
+  "keywords": ["css", "stylesheet", "a11y", "accessibility"],
+  "author": "Monica Salter <mocasalter@gmail.com>",
+  "license": "ISC",
+  "files": [
+    "lib"
+  ]
+}
